@@ -22,14 +22,13 @@ macOSの「テキスト認識（Live Text）」エンジンを直接呼び出す
 # 
 ---
 
-# 
 # Build & Setup Commands (Terminal)
 
 
-## 
 ## コンパイル
+```
 swiftc ocr_tool.swift -o ocr_tool
-
+```
 ## 実行バイナリの移動（パスが通っているところに移動させる。以下は例）
 ```
 mv ocr_tool /usr/local/bin/
