@@ -16,10 +16,7 @@ macOSの「テキスト認識（Live Text）」エンジンを直接呼び出す
 1. ショートカット.appで「シェルスクリプトを実行」アクションを作成。
 1. 作成したショートカットにキーボードショートカット（Cmd+Shift+2等）を割り当て。
 
-## 要件
-- macOS 13.0+
-- Swift 5.7+
-# 
+
 ---
 
 # Build & Setup Commands (Terminal)
